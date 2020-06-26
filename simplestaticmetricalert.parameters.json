@@ -31,9 +31,14 @@
         },
         "actionGroupId": {
             "value": "/subscriptions/TempSubId/resourceGroups/default-activitylogalerts/providers/Microsoft.Insights/actionGroups/TempActionName"
+        },
+        "windowSize": {
+            "value": "PT5M"
         }
     }
 }
+
+
 
 
 
